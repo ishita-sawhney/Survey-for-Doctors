@@ -1,0 +1,698 @@
+S.No,NPI,Speciality,Region,State
+1,1000000000,Cardiology,Northeast,NY
+2,1000000002,Oncology,West,CA
+3,1000000003,Orthopedics,Northeast,TX
+4,1000000007,General Practice,West,TX
+5,1000000008,Pediatrics,Northeast,NC
+6,1000000009,Neurology,West,PA
+7,1000000012,Orthopedics,Midwest,NY
+8,1000000014,Radiology,South,CA
+9,1000000017,Radiology,Northeast,MI
+10,1000000020,Cardiology,South,TX
+11,1000000022,Oncology,Northeast,OH
+12,1000000023,Oncology,Midwest,PA
+13,1000000024,Radiology,West,IL
+14,1000000026,General Practice,West,OH
+15,1000000028,General Practice,West,IL
+16,1000000029,Cardiology,South,FL
+17,1000000030,Cardiology,Midwest,NY
+18,1000000031,Oncology,South,NC
+19,1000000032,Oncology,South,OH
+20,1000000033,Neurology,Midwest,MI
+21,1000000034,Pediatrics,Northeast,CA
+22,1000000035,Orthopedics,Northeast,GA
+23,1000000037,Neurology,Midwest,MI
+24,1000000038,Pediatrics,West,IL
+25,1000000039,Orthopedics,South,PA
+26,1000000040,Radiology,South,NC
+27,1000000041,Radiology,Northeast,PA
+28,1000000042,Oncology,West,CA
+29,1000000044,Pediatrics,South,IL
+30,1000000047,Radiology,Northeast,OH
+31,1000000048,Radiology,South,IL
+32,1000000049,Radiology,West,PA
+33,1000000050,Cardiology,South,TX
+34,1000000051,Oncology,West,NY
+35,1000000052,Pediatrics,Northeast,TX
+36,1000000057,Pediatrics,Midwest,PA
+37,1000000058,Radiology,Midwest,FL
+38,1000000059,Pediatrics,Northeast,NC
+39,1000000060,Orthopedics,South,OH
+40,1000000061,General Practice,Midwest,CA
+41,1000000062,Neurology,South,NC
+42,1000000066,General Practice,Midwest,CA
+43,1000000067,Orthopedics,Northeast,MI
+44,1000000069,Pediatrics,South,MI
+45,1000000070,Orthopedics,Midwest,PA
+46,1000000071,Cardiology,South,TX
+47,1000000072,Orthopedics,Northeast,GA
+48,1000000074,Oncology,Midwest,MI
+49,1000000075,Neurology,Northeast,NC
+50,1000000076,Neurology,Northeast,GA
+51,1000000077,Neurology,Midwest,IL
+52,1000000078,Oncology,Northeast,NY
+53,1000000080,Orthopedics,South,OH
+54,1000000081,Pediatrics,Northeast,GA
+55,1000000082,Neurology,South,NC
+56,1000000083,General Practice,Northeast,NC
+57,1000000085,Cardiology,West,FL
+58,1000000086,General Practice,West,PA
+59,1000000087,Neurology,Midwest,MI
+60,1000000088,Oncology,South,NC
+61,1000000089,Orthopedics,South,IL
+62,1000000090,Orthopedics,South,IL
+63,1000000092,Pediatrics,Midwest,OH
+64,1000000093,Radiology,West,GA
+65,1000000094,Radiology,South,IL
+66,1000000095,Orthopedics,West,FL
+67,1000000096,Neurology,West,OH
+68,1000000101,General Practice,West,GA
+69,1000000102,Orthopedics,Midwest,MI
+70,1000000104,Cardiology,West,TX
+71,1000000106,Oncology,West,IL
+72,1000000108,Radiology,West,IL
+73,1000000109,Pediatrics,Midwest,TX
+74,1000000110,Radiology,Northeast,FL
+75,1000000112,Oncology,West,NY
+76,1000000113,Oncology,Midwest,IL
+77,1000000115,Neurology,South,PA
+78,1000000117,Radiology,Midwest,TX
+79,1000000118,General Practice,Northeast,PA
+80,1000000119,Oncology,Northeast,CA
+81,1000000123,Cardiology,Northeast,CA
+82,1000000124,Radiology,West,FL
+83,1000000125,Orthopedics,South,TX
+84,1000000126,Neurology,Midwest,IL
+85,1000000127,Radiology,Northeast,MI
+86,1000000128,Orthopedics,Midwest,OH
+87,1000000129,Neurology,South,TX
+88,1000000130,Cardiology,South,MI
+89,1000000131,Pediatrics,South,CA
+90,1000000132,Orthopedics,Midwest,TX
+91,1000000133,Radiology,West,CA
+92,1000000134,Radiology,South,NC
+93,1000000135,Orthopedics,Northeast,MI
+94,1000000136,Pediatrics,West,CA
+95,1000000137,Oncology,South,CA
+96,1000000139,Oncology,South,FL
+97,1000000140,Neurology,Midwest,FL
+98,1000000141,General Practice,South,MI
+99,1000000142,Oncology,Northeast,PA
+100,1000000143,Pediatrics,South,NY
+101,1000000145,Orthopedics,Midwest,IL
+102,1000000146,General Practice,Northeast,NY
+103,1000000148,Neurology,South,NY
+104,1000000149,Orthopedics,Northeast,OH
+105,1000000150,Oncology,Midwest,CA
+106,1000000151,General Practice,Northeast,MI
+107,1000000156,Pediatrics,South,IL
+108,1000000157,Pediatrics,West,OH
+109,1000000160,Cardiology,South,MI
+110,1000000161,Pediatrics,Midwest,GA
+111,1000000162,Radiology,West,GA
+112,1000000163,Cardiology,Midwest,NC
+113,1000000164,Cardiology,Northeast,PA
+114,1000000166,Cardiology,Midwest,MI
+115,1000000167,Radiology,West,FL
+116,1000000168,Pediatrics,Northeast,GA
+117,1000000170,Neurology,Northeast,TX
+118,1000000172,Pediatrics,Midwest,NY
+119,1000000173,Cardiology,Midwest,NY
+120,1000000176,Oncology,Northeast,IL
+121,1000000177,General Practice,West,FL
+122,1000000178,Pediatrics,South,MI
+123,1000000180,Cardiology,Northeast,TX
+124,1000000182,Cardiology,South,CA
+125,1000000183,Pediatrics,West,GA
+126,1000000186,Oncology,Midwest,CA
+127,1000000188,Oncology,Midwest,MI
+128,1000000191,General Practice,West,PA
+129,1000000192,Orthopedics,Northeast,NY
+130,1000000193,Orthopedics,Midwest,FL
+131,1000000194,Pediatrics,West,IL
+132,1000000195,Pediatrics,South,OH
+133,1000000197,General Practice,Northeast,GA
+134,1000000201,Neurology,South,FL
+135,1000000202,Oncology,Northeast,CA
+136,1000000204,General Practice,Northeast,TX
+137,1000000206,Orthopedics,Northeast,NY
+138,1000000207,Orthopedics,South,OH
+139,1000000208,General Practice,Northeast,IL
+140,1000000209,Neurology,South,OH
+141,1000000212,General Practice,South,PA
+142,1000000214,Cardiology,Midwest,CA
+143,1000000215,Cardiology,Northeast,FL
+144,1000000216,Neurology,South,OH
+145,1000000217,Pediatrics,South,NC
+146,1000000219,Cardiology,Midwest,CA
+147,1000000221,General Practice,West,MI
+148,1000000222,Cardiology,Midwest,CA
+149,1000000223,Orthopedics,West,CA
+150,1000000226,Neurology,Midwest,TX
+151,1000000227,Orthopedics,West,IL
+152,1000000228,Pediatrics,Northeast,NY
+153,1000000229,Pediatrics,Midwest,CA
+154,1000000230,Cardiology,South,TX
+155,1000000231,Radiology,Midwest,PA
+156,1000000234,Pediatrics,Midwest,NY
+157,1000000235,Cardiology,West,FL
+158,1000000236,Neurology,Midwest,MI
+159,1000000237,Orthopedics,West,NY
+160,1000000238,Cardiology,West,PA
+161,1000000239,Cardiology,Midwest,CA
+162,1000000240,Cardiology,Northeast,NY
+163,1000000242,Orthopedics,Midwest,CA
+164,1000000245,Neurology,Midwest,FL
+165,1000000246,Oncology,Midwest,FL
+166,1000000248,Cardiology,West,FL
+167,1000000249,Pediatrics,South,PA
+168,1000000250,General Practice,South,IL
+169,1000000251,Neurology,South,NC
+170,1000000252,Orthopedics,South,NY
+171,1000000253,General Practice,Midwest,TX
+172,1000000254,Neurology,Midwest,OH
+173,1000000255,Oncology,Midwest,CA
+174,1000000256,Cardiology,West,OH
+175,1000000257,Cardiology,Northeast,MI
+176,1000000258,Orthopedics,Northeast,CA
+177,1000000259,Neurology,South,CA
+178,1000000260,Oncology,Northeast,NY
+179,1000000262,General Practice,South,OH
+180,1000000263,Oncology,West,FL
+181,1000000264,Radiology,South,FL
+182,1000000265,Neurology,West,MI
+183,1000000267,Oncology,Midwest,IL
+184,1000000270,General Practice,Midwest,OH
+185,1000000271,Neurology,West,PA
+186,1000000272,Pediatrics,Midwest,CA
+187,1000000273,Orthopedics,South,GA
+188,1000000274,Radiology,Midwest,FL
+189,1000000275,Pediatrics,Northeast,OH
+190,1000000276,Radiology,Midwest,OH
+191,1000000279,Pediatrics,South,NY
+192,1000000281,Orthopedics,South,IL
+193,1000000282,Cardiology,Midwest,TX
+194,1000000283,Orthopedics,Midwest,FL
+195,1000000284,General Practice,West,NC
+196,1000000285,Orthopedics,South,CA
+197,1000000286,General Practice,Midwest,TX
+198,1000000287,Radiology,West,CA
+199,1000000289,Neurology,South,PA
+200,1000000292,Pediatrics,Midwest,FL
+201,1000000294,Oncology,Northeast,IL
+202,1000000295,Oncology,Northeast,NC
+203,1000000296,Orthopedics,West,CA
+204,1000000297,Cardiology,Midwest,FL
+205,1000000298,Radiology,Midwest,CA
+206,1000000300,Radiology,Northeast,GA
+207,1000000302,Cardiology,Northeast,TX
+208,1000000303,Neurology,South,FL
+209,1000000304,Pediatrics,Midwest,PA
+210,1000000310,Cardiology,South,FL
+211,1000000312,Radiology,Midwest,IL
+212,1000000313,Pediatrics,Midwest,NC
+213,1000000314,General Practice,Midwest,NY
+214,1000000316,Oncology,West,MI
+215,1000000317,Radiology,South,MI
+216,1000000319,General Practice,West,NC
+217,1000000323,Pediatrics,South,MI
+218,1000000325,Oncology,South,NC
+219,1000000326,General Practice,Midwest,CA
+220,1000000327,Cardiology,West,TX
+221,1000000329,Neurology,West,MI
+222,1000000330,Radiology,Midwest,TX
+223,1000000331,Cardiology,South,PA
+224,1000000332,General Practice,South,TX
+225,1000000333,Cardiology,Northeast,TX
+226,1000000334,Radiology,South,PA
+227,1000000335,Neurology,Midwest,OH
+228,1000000336,Pediatrics,South,FL
+229,1000000337,Radiology,West,NC
+230,1000000338,Cardiology,South,TX
+231,1000000339,Cardiology,Midwest,NY
+232,1000000340,Cardiology,South,TX
+233,1000000342,Neurology,Midwest,NY
+234,1000000345,General Practice,Midwest,TX
+235,1000000346,Cardiology,Northeast,CA
+236,1000000348,Pediatrics,Northeast,CA
+237,1000000350,Orthopedics,Northeast,CA
+238,1000000352,Pediatrics,Midwest,NY
+239,1000000353,General Practice,Northeast,PA
+240,1000000354,Oncology,South,CA
+241,1000000355,Pediatrics,Midwest,NC
+242,1000000356,Radiology,South,MI
+243,1000000358,Neurology,West,CA
+244,1000000359,Pediatrics,Midwest,GA
+245,1000000360,Oncology,South,FL
+246,1000000361,General Practice,Northeast,NY
+247,1000000362,General Practice,Midwest,CA
+248,1000000363,Pediatrics,Northeast,OH
+249,1000000364,Radiology,West,TX
+250,1000000365,Oncology,West,GA
+251,1000000366,General Practice,Midwest,NY
+252,1000000367,Orthopedics,Midwest,FL
+253,1000000368,Orthopedics,South,MI
+254,1000000369,Oncology,Midwest,FL
+255,1000000370,Cardiology,West,TX
+256,1000000371,Cardiology,West,CA
+257,1000000372,Neurology,South,NY
+258,1000000373,Neurology,Midwest,FL
+259,1000000375,Cardiology,South,TX
+260,1000000376,Radiology,South,OH
+261,1000000377,Cardiology,Midwest,IL
+262,1000000378,Radiology,Midwest,MI
+263,1000000379,Cardiology,West,FL
+264,1000000380,Neurology,South,TX
+265,1000000381,Cardiology,Midwest,NY
+266,1000000384,Radiology,Northeast,CA
+267,1000000386,General Practice,West,GA
+268,1000000387,Neurology,Midwest,FL
+269,1000000388,Oncology,Northeast,TX
+270,1000000390,Orthopedics,Midwest,PA
+271,1000000394,Radiology,Midwest,FL
+272,1000000395,Cardiology,West,FL
+273,1000000396,Pediatrics,South,FL
+274,1000000397,Radiology,West,NC
+275,1000000398,Radiology,West,NC
+276,1000000399,General Practice,South,IL
+277,1000000400,Orthopedics,Northeast,IL
+278,1000000402,Radiology,Northeast,TX
+279,1000000403,Radiology,South,IL
+280,1000000404,Radiology,Midwest,IL
+281,1000000406,Oncology,Northeast,MI
+282,1000000407,Radiology,Midwest,GA
+283,1000000408,Pediatrics,Northeast,NC
+284,1000000409,Neurology,South,OH
+285,1000000410,Radiology,Midwest,PA
+286,1000000411,Cardiology,Midwest,IL
+287,1000000412,Orthopedics,Northeast,FL
+288,1000000413,Pediatrics,South,PA
+289,1000000414,Orthopedics,South,IL
+290,1000000415,Pediatrics,West,IL
+291,1000000416,Oncology,Midwest,OH
+292,1000000419,Orthopedics,Northeast,CA
+293,1000000420,Orthopedics,West,IL
+294,1000000422,Oncology,South,NC
+295,1000000427,Radiology,Midwest,IL
+296,1000000428,General Practice,Northeast,TX
+297,1000000429,Orthopedics,Northeast,IL
+298,1000000430,Neurology,Northeast,NC
+299,1000000431,Neurology,West,PA
+300,1000000432,Oncology,Midwest,OH
+301,1000000433,Orthopedics,South,CA
+302,1000000434,Orthopedics,Northeast,NC
+303,1000000435,Orthopedics,South,CA
+304,1000000436,General Practice,Northeast,PA
+305,1000000437,General Practice,South,GA
+306,1000000439,General Practice,West,NY
+307,1000000440,Cardiology,South,MI
+308,1000000441,Pediatrics,South,OH
+309,1000000442,Pediatrics,Midwest,GA
+310,1000000444,Radiology,South,OH
+311,1000000445,Radiology,Northeast,MI
+312,1000000446,Radiology,South,IL
+313,1000000447,General Practice,West,IL
+314,1000000448,Orthopedics,Midwest,PA
+315,1000000450,Orthopedics,South,CA
+316,1000000451,Oncology,West,GA
+317,1000000452,Oncology,West,NY
+318,1000000453,Pediatrics,West,NC
+319,1000000454,General Practice,South,TX
+320,1000000455,Cardiology,South,CA
+321,1000000457,General Practice,Midwest,PA
+322,1000000458,Pediatrics,Northeast,CA
+323,1000000459,Radiology,South,IL
+324,1000000463,General Practice,Midwest,TX
+325,1000000464,Pediatrics,South,IL
+326,1000000465,Neurology,South,GA
+327,1000000466,Radiology,West,TX
+328,1000000468,Pediatrics,West,CA
+329,1000000470,Cardiology,Midwest,NC
+330,1000000471,Oncology,Midwest,PA
+331,1000000472,General Practice,South,CA
+332,1000000473,Neurology,Midwest,OH
+333,1000000474,Oncology,Northeast,FL
+334,1000000475,Pediatrics,Midwest,FL
+335,1000000477,Oncology,Midwest,NY
+336,1000000478,Orthopedics,Northeast,FL
+337,1000000481,Orthopedics,Northeast,MI
+338,1000000482,Cardiology,South,IL
+339,1000000483,Pediatrics,Midwest,PA
+340,1000000484,Radiology,South,NY
+341,1000000485,Cardiology,Northeast,GA
+342,1000000486,Cardiology,West,NY
+343,1000000487,General Practice,Northeast,IL
+344,1000000488,Pediatrics,Northeast,IL
+345,1000000489,Neurology,South,OH
+346,1000000492,Cardiology,West,PA
+347,1000000493,Orthopedics,Northeast,PA
+348,1000000494,Neurology,West,NC
+349,1000000495,General Practice,South,IL
+350,1000000496,Neurology,Northeast,CA
+351,1000000497,General Practice,Midwest,TX
+352,1000000498,Radiology,West,IL
+353,1000000499,General Practice,West,TX
+354,1000000500,Cardiology,South,IL
+355,1000000501,Pediatrics,Midwest,NY
+356,1000000502,Radiology,South,NC
+357,1000000503,Oncology,Northeast,GA
+358,1000000505,Cardiology,Northeast,CA
+359,1000000506,Pediatrics,West,NY
+360,1000000507,Radiology,West,PA
+361,1000000508,General Practice,Northeast,MI
+362,1000000510,Cardiology,South,IL
+363,1000000511,Oncology,South,TX
+364,1000000512,Oncology,South,GA
+365,1000000514,Neurology,South,CA
+366,1000000515,Neurology,South,GA
+367,1000000516,Oncology,Northeast,NY
+368,1000000518,Neurology,Northeast,FL
+369,1000000520,Pediatrics,West,CA
+370,1000000524,Oncology,South,IL
+371,1000000525,Cardiology,South,FL
+372,1000000526,Orthopedics,South,MI
+373,1000000527,Neurology,South,IL
+374,1000000528,Pediatrics,West,MI
+375,1000000529,Radiology,Northeast,NC
+376,1000000531,General Practice,West,GA
+377,1000000532,General Practice,Midwest,NC
+378,1000000534,Pediatrics,South,MI
+379,1000000536,Cardiology,Northeast,NY
+380,1000000537,General Practice,West,CA
+381,1000000538,Radiology,Midwest,OH
+382,1000000539,Radiology,West,CA
+383,1000000543,Neurology,Northeast,IL
+384,1000000548,Pediatrics,West,TX
+385,1000000550,Orthopedics,Midwest,GA
+386,1000000551,Pediatrics,West,GA
+387,1000000552,Pediatrics,Northeast,MI
+388,1000000553,Orthopedics,South,IL
+389,1000000555,Orthopedics,West,CA
+390,1000000558,Pediatrics,South,NY
+391,1000000559,Oncology,West,CA
+392,1000000560,Radiology,West,MI
+393,1000000561,Cardiology,Northeast,OH
+394,1000000562,Orthopedics,Northeast,CA
+395,1000000564,Pediatrics,Northeast,FL
+396,1000000566,General Practice,Midwest,CA
+397,1000000569,Cardiology,South,PA
+398,1000000572,Orthopedics,West,OH
+399,1000000573,General Practice,South,PA
+400,1000000574,General Practice,West,OH
+401,1000000575,Neurology,West,MI
+402,1000000576,Oncology,South,NC
+403,1000000578,Cardiology,Northeast,NY
+404,1000000579,Orthopedics,West,IL
+405,1000000580,Radiology,South,NY
+406,1000000581,General Practice,Midwest,TX
+407,1000000583,Orthopedics,Midwest,TX
+408,1000000586,Cardiology,South,CA
+409,1000000588,Neurology,South,FL
+410,1000000589,Pediatrics,Northeast,NY
+411,1000000591,Cardiology,West,PA
+412,1000000592,General Practice,Northeast,GA
+413,1000000593,Cardiology,Northeast,MI
+414,1000000594,Oncology,Northeast,NY
+415,1000000595,Neurology,Northeast,MI
+416,1000000596,Orthopedics,Northeast,PA
+417,1000000597,Oncology,South,PA
+418,1000000598,Orthopedics,Midwest,FL
+419,1000000599,Radiology,South,MI
+420,1000000600,Orthopedics,West,NC
+421,1000000603,Pediatrics,Midwest,OH
+422,1000000604,Oncology,South,FL
+423,1000000606,Radiology,West,CA
+424,1000000607,Cardiology,West,IL
+425,1000000608,General Practice,Midwest,CA
+426,1000000609,Neurology,South,IL
+427,1000000611,Oncology,Northeast,IL
+428,1000000613,Orthopedics,Midwest,NY
+429,1000000614,Radiology,Northeast,GA
+430,1000000615,Oncology,Midwest,PA
+431,1000000617,Radiology,Northeast,GA
+432,1000000618,Orthopedics,Northeast,MI
+433,1000000619,Oncology,Northeast,FL
+434,1000000622,Cardiology,Northeast,PA
+435,1000000623,Oncology,West,MI
+436,1000000624,Cardiology,Northeast,OH
+437,1000000626,Cardiology,Midwest,NC
+438,1000000627,Radiology,Midwest,PA
+439,1000000629,Pediatrics,West,TX
+440,1000000631,General Practice,West,OH
+441,1000000633,Cardiology,West,TX
+442,1000000634,General Practice,Midwest,IL
+443,1000000635,Neurology,Midwest,CA
+444,1000000636,Cardiology,Northeast,IL
+445,1000000637,Radiology,Northeast,CA
+446,1000000638,Radiology,Midwest,NY
+447,1000000640,Radiology,West,NC
+448,1000000641,Cardiology,South,FL
+449,1000000644,General Practice,Northeast,OH
+450,1000000645,Pediatrics,Midwest,FL
+451,1000000647,General Practice,West,NY
+452,1000000650,Oncology,West,CA
+453,1000000651,Oncology,Midwest,PA
+454,1000000652,General Practice,South,NC
+455,1000000653,General Practice,Midwest,GA
+456,1000000654,General Practice,Northeast,FL
+457,1000000656,Pediatrics,Northeast,OH
+458,1000000657,Cardiology,Northeast,NC
+459,1000000658,Radiology,Midwest,MI
+460,1000000659,Pediatrics,West,CA
+461,1000000660,Radiology,West,CA
+462,1000000661,Neurology,South,NC
+463,1000000662,Cardiology,Midwest,TX
+464,1000000663,Oncology,Midwest,MI
+465,1000000664,General Practice,West,CA
+466,1000000668,Cardiology,South,NC
+467,1000000670,Cardiology,Northeast,MI
+468,1000000671,Orthopedics,Midwest,NY
+469,1000000672,Pediatrics,West,PA
+470,1000000673,General Practice,Midwest,PA
+471,1000000674,Cardiology,Midwest,NC
+472,1000000675,Radiology,West,GA
+473,1000000676,Cardiology,Northeast,IL
+474,1000000677,General Practice,South,IL
+475,1000000678,Pediatrics,Midwest,TX
+476,1000000679,Oncology,West,NY
+477,1000000681,Neurology,West,GA
+478,1000000682,Radiology,West,NY
+479,1000000684,Pediatrics,Midwest,OH
+480,1000000685,Oncology,Northeast,FL
+481,1000000686,Radiology,South,NY
+482,1000000688,Neurology,West,PA
+483,1000000689,Cardiology,West,NY
+484,1000000690,Pediatrics,Midwest,OH
+485,1000000692,Neurology,Midwest,MI
+486,1000000693,Cardiology,Northeast,MI
+487,1000000696,Oncology,South,IL
+488,1000000697,Orthopedics,South,NC
+489,1000000699,Pediatrics,South,CA
+490,1000000701,Neurology,West,OH
+491,1000000702,Orthopedics,Northeast,IL
+492,1000000703,Oncology,Midwest,NC
+493,1000000706,Radiology,Midwest,OH
+494,1000000709,Orthopedics,Midwest,IL
+495,1000000710,Neurology,South,TX
+496,1000000711,Pediatrics,West,IL
+497,1000000713,Neurology,Midwest,PA
+498,1000000714,Pediatrics,Northeast,CA
+499,1000000715,Neurology,West,OH
+500,1000000717,Oncology,Northeast,FL
+501,1000000719,Neurology,South,OH
+502,1000000721,Oncology,West,PA
+503,1000000722,Orthopedics,Midwest,MI
+504,1000000723,Cardiology,West,NY
+505,1000000724,Pediatrics,Northeast,TX
+506,1000000726,General Practice,Northeast,NY
+507,1000000727,Pediatrics,Midwest,MI
+508,1000000728,General Practice,South,CA
+509,1000000729,General Practice,Midwest,TX
+510,1000000731,General Practice,South,FL
+511,1000000732,Oncology,South,PA
+512,1000000733,Oncology,Northeast,CA
+513,1000000734,Cardiology,Northeast,NY
+514,1000000736,General Practice,Northeast,TX
+515,1000000737,Cardiology,Northeast,NC
+516,1000000738,Pediatrics,Northeast,MI
+517,1000000739,Neurology,Midwest,FL
+518,1000000740,Cardiology,West,OH
+519,1000000741,Neurology,Northeast,MI
+520,1000000742,General Practice,West,PA
+521,1000000743,Radiology,Northeast,NY
+522,1000000744,Neurology,Northeast,MI
+523,1000000746,General Practice,Midwest,IL
+524,1000000747,Orthopedics,Midwest,IL
+525,1000000748,General Practice,West,IL
+526,1000000749,General Practice,West,CA
+527,1000000751,Oncology,South,OH
+528,1000000752,Pediatrics,South,FL
+529,1000000753,General Practice,West,FL
+530,1000000754,Cardiology,Northeast,NC
+531,1000000756,Neurology,Midwest,FL
+532,1000000757,General Practice,South,MI
+533,1000000758,Pediatrics,Midwest,CA
+534,1000000759,General Practice,West,OH
+535,1000000760,Cardiology,West,GA
+536,1000000761,Pediatrics,South,TX
+537,1000000762,Oncology,South,PA
+538,1000000763,Radiology,Northeast,TX
+539,1000000766,Neurology,South,MI
+540,1000000767,Orthopedics,Northeast,TX
+541,1000000770,Radiology,South,MI
+542,1000000771,Neurology,Northeast,IL
+543,1000000772,Pediatrics,South,NC
+544,1000000774,General Practice,West,FL
+545,1000000775,Oncology,South,NY
+546,1000000776,Oncology,West,IL
+547,1000000777,Oncology,Midwest,IL
+548,1000000781,Neurology,Northeast,MI
+549,1000000783,Orthopedics,Northeast,IL
+550,1000000784,Cardiology,South,IL
+551,1000000786,General Practice,Northeast,MI
+552,1000000787,Oncology,West,IL
+553,1000000788,Pediatrics,Midwest,PA
+554,1000000789,Cardiology,Midwest,OH
+555,1000000790,Radiology,South,NY
+556,1000000791,Neurology,South,FL
+557,1000000793,Oncology,Midwest,PA
+558,1000000795,Cardiology,Northeast,NC
+559,1000000796,General Practice,West,FL
+560,1000000797,Oncology,South,IL
+561,1000000798,Oncology,Midwest,FL
+562,1000000800,Pediatrics,Midwest,TX
+563,1000000802,Pediatrics,Northeast,CA
+564,1000000805,Neurology,Northeast,NY
+565,1000000806,Neurology,South,NY
+566,1000000808,General Practice,Northeast,PA
+567,1000000810,Neurology,Northeast,OH
+568,1000000811,Cardiology,Northeast,TX
+569,1000000812,Orthopedics,West,IL
+570,1000000813,Pediatrics,West,PA
+571,1000000814,Oncology,Northeast,NY
+572,1000000815,Pediatrics,Northeast,NC
+573,1000000817,General Practice,South,FL
+574,1000000818,General Practice,Midwest,TX
+575,1000000820,Oncology,West,TX
+576,1000000822,Oncology,Midwest,OH
+577,1000000824,Neurology,West,GA
+578,1000000827,Neurology,West,CA
+579,1000000831,Neurology,West,MI
+580,1000000832,Orthopedics,South,PA
+581,1000000833,Pediatrics,Northeast,GA
+582,1000000834,Pediatrics,West,TX
+583,1000000837,Radiology,South,OH
+584,1000000838,Cardiology,Northeast,FL
+585,1000000839,Cardiology,West,NC
+586,1000000840,General Practice,West,CA
+587,1000000841,Neurology,Northeast,NY
+588,1000000842,Oncology,Northeast,MI
+589,1000000844,Radiology,Northeast,MI
+590,1000000845,Oncology,West,CA
+591,1000000846,Oncology,South,NY
+592,1000000847,Oncology,Northeast,OH
+593,1000000848,General Practice,Northeast,OH
+594,1000000849,Orthopedics,Midwest,OH
+595,1000000851,Neurology,Northeast,OH
+596,1000000852,Radiology,West,IL
+597,1000000853,Radiology,Northeast,NC
+598,1000000855,Oncology,Northeast,NC
+599,1000000856,Oncology,West,GA
+600,1000000857,Oncology,West,PA
+601,1000000859,General Practice,West,TX
+602,1000000861,Oncology,South,IL
+603,1000000862,Radiology,Midwest,TX
+604,1000000863,Cardiology,Northeast,PA
+605,1000000864,Oncology,Midwest,FL
+606,1000000865,Cardiology,Midwest,PA
+607,1000000866,Pediatrics,Northeast,MI
+608,1000000867,Orthopedics,South,PA
+609,1000000868,Cardiology,West,PA
+610,1000000869,Radiology,South,MI
+611,1000000870,Cardiology,Midwest,GA
+612,1000000872,Orthopedics,West,NC
+613,1000000873,Cardiology,Midwest,PA
+614,1000000874,General Practice,Northeast,IL
+615,1000000875,Neurology,Northeast,FL
+616,1000000877,Cardiology,Northeast,GA
+617,1000000879,Neurology,Midwest,IL
+618,1000000880,Radiology,South,NC
+619,1000000881,Neurology,Midwest,MI
+620,1000000882,Neurology,West,CA
+621,1000000883,Oncology,Midwest,OH
+622,1000000884,General Practice,West,IL
+623,1000000886,Radiology,Midwest,CA
+624,1000000888,Cardiology,South,NC
+625,1000000890,Neurology,South,TX
+626,1000000891,Oncology,Midwest,NC
+627,1000000892,Orthopedics,West,MI
+628,1000000893,Orthopedics,Midwest,IL
+629,1000000894,Oncology,West,NY
+630,1000000895,Oncology,West,IL
+631,1000000898,General Practice,Midwest,OH
+632,1000000899,Orthopedics,West,NC
+633,1000000900,Cardiology,Midwest,GA
+634,1000000901,Orthopedics,South,OH
+635,1000000910,Cardiology,Midwest,NC
+636,1000000911,Neurology,West,TX
+637,1000000912,General Practice,Midwest,GA
+638,1000000914,Radiology,South,GA
+639,1000000917,Orthopedics,Northeast,CA
+640,1000000918,Pediatrics,Midwest,FL
+641,1000000919,Orthopedics,Northeast,CA
+642,1000000922,Radiology,West,GA
+643,1000000923,Cardiology,Midwest,FL
+644,1000000925,Pediatrics,Midwest,NY
+645,1000000926,Neurology,Northeast,CA
+646,1000000927,Orthopedics,Midwest,TX
+647,1000000928,Oncology,Midwest,PA
+648,1000000930,Radiology,West,FL
+649,1000000931,Radiology,Northeast,NY
+650,1000000934,Radiology,Northeast,MI
+651,1000000936,Pediatrics,Midwest,OH
+652,1000000937,Orthopedics,Northeast,NY
+653,1000000938,Radiology,West,TX
+654,1000000939,Orthopedics,Midwest,NY
+655,1000000940,Oncology,West,NC
+656,1000000942,Radiology,South,MI
+657,1000000943,Cardiology,Northeast,GA
+658,1000000944,Pediatrics,West,IL
+659,1000000945,Cardiology,West,TX
+660,1000000946,General Practice,South,IL
+661,1000000947,Oncology,West,FL
+662,1000000950,Radiology,West,OH
+663,1000000951,Orthopedics,West,NC
+664,1000000954,Cardiology,South,NC
+665,1000000955,Oncology,West,MI
+666,1000000957,Neurology,West,FL
+667,1000000958,General Practice,West,GA
+668,1000000962,Cardiology,Midwest,PA
+669,1000000963,Radiology,South,PA
+670,1000000964,Pediatrics,West,NC
+671,1000000966,Oncology,South,OH
+672,1000000967,Radiology,South,TX
+673,1000000969,Radiology,South,FL
+674,1000000970,General Practice,South,FL
+675,1000000971,Pediatrics,West,IL
+676,1000000972,Oncology,Midwest,MI
+677,1000000973,Pediatrics,Midwest,TX
+678,1000000974,Oncology,Northeast,IL
+679,1000000975,Neurology,West,IL
+680,1000000976,Oncology,West,CA
+681,1000000977,Neurology,Northeast,OH
+682,1000000978,Neurology,Northeast,MI
+683,1000000980,Pediatrics,Northeast,TX
+684,1000000983,General Practice,South,NY
+685,1000000985,Radiology,Northeast,NY
+686,1000000986,General Practice,West,MI
+687,1000000987,Pediatrics,West,NY
+688,1000000988,Orthopedics,South,NC
+689,1000000989,Pediatrics,Midwest,GA
+690,1000000990,Oncology,South,NY
+691,1000000991,Neurology,Midwest,NY
+692,1000000992,Pediatrics,West,FL
+693,1000000993,General Practice,Northeast,NC
+694,1000000994,Oncology,West,PA
+695,1000000996,Neurology,Midwest,NY
+696,1000000998,Oncology,Midwest,NY
+697,1000000999,Orthopedics,West,PA
